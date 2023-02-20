@@ -1,0 +1,10 @@
+.boot >ul> li >a{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+
+.boot span{
+    color: red;
+    font-size: 25px;
+}
