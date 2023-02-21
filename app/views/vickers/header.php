@@ -9,6 +9,8 @@
 
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
 
+  <link href="https://fonts.googleapis.com/css2?family=Jost:wght@500&display=swap" rel="stylesheet">
+
   <link rel="stylesheet" href="<?=ASSETS?>vickers/fonts/icomoon/style.css">
 
   <link rel="stylesheet" href="<?=ASSETS?>vickers/css/bootstrap/bootstrap.css">
@@ -30,7 +32,7 @@
 
   <link rel="stylesheet" href="<?=ASSETS?>vickers/css/custom.css">
 
-
+  <link rel="stylesheet" href="<?=ASSETS?>vickers/css/login.css">
 
 </head>
 
@@ -51,7 +53,7 @@
       <div class="container">
         <div class="d-flex align-items-center">
           <div class="site-logo">
-            <a href="index.html">
+            <a href="<?=ROOT?>home">
               <img src="<?=ASSETS?>vickers/images/vickerslogo.png" alt="Logo">
             </a>
           </div>
@@ -63,7 +65,6 @@
                 <li><a href="<?=ROOT?>players" class="nav-link">Players</a></li>
                 <li><a href="<?=ROOT?>about" class="nav-link">About us</a></li>
                 <li><a href="<?=ROOT?>blog" class="nav-link">Blog</a></li>
-                <li><a href="<?=ROOT?>login" class="nav-link">Login</a></li>
                 <li><a href="<?=ROOT?>signup" class="nav-link">Signup</a></li>
                 <li><a href="<?=ROOT?>contact" class="nav-link">Contact us</a></li>
               </ul>
