@@ -1,11 +1,11 @@
 <?php
 
-class Signup extends controller
+class Login extends controller
 {
     function index()
     {
         
-        $data['page_title'] = "Signup";
+        $data['page_title'] = "login";
 
         if(isset($_POST['email']))
         {
@@ -13,12 +13,11 @@ class Signup extends controller
             $user->signup($_POST);
         }elseif(isset($_POST['username']) && !isset($_POST['email']))
         {
-
             $user = $this->loadModel("user");
             $user->login($_POST);
         }
 
-        $this->view("vickers/signup",$data);
+        $this->view("minima/login",$data);
     }
 
 }

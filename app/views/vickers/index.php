@@ -62,7 +62,7 @@
               </a>
               <div class="caption">
                 <div class="caption-inner">
-                  <h3 class="mb-3">Romolu to stay at Real Nadrid?</h3>
+                  <h3 class="mb-3">Vickers FC signs new players.</h3>
                   <div class="author d-flex align-items-center">
                     <div class="img mb-2 mr-3">
                       <img src="<?=ASSETS?>vickers/images/my logo.png" alt="">
@@ -83,7 +83,7 @@
               </a>
               <div class="caption">
                 <div class="caption-inner">
-                  <h3 class="mb-3">Kai Nets Double To Secure Comfortable Away Win</h3>
+                  <h3 class="mb-3">The big awaited match day at Afraha stadium-Nakuru.</h3>
                   <div class="author d-flex align-items-center">
                     <div class="img mb-2 mr-3">
                       <img src="<?=ASSETS?>vickers/images/my logo.png" alt="">
@@ -104,7 +104,7 @@
               </a>
               <div class="caption">
                 <div class="caption-inner">
-                  <h3 class="mb-3">Dogba set for Juvendu return?</h3>
+                  <h3 class="mb-3">Div II finals, Vickers FC vs Vegpro FC.</h3>
                   <div class="author d-flex align-items-center">
                     <div class="img mb-2 mr-3">
                       <img src="<?=ASSETS?>vickers/images/my logo.png" alt="">

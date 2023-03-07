@@ -7,7 +7,7 @@ define('WEBSITE_TITLE', "vickers FC");
 /*set database variables*/
 
 define('DB_TYPE','mysql');
-define('DB_NAME','MVC');
+define('DB_NAME','vickers');
 define('DB_USER','root');
 define('DB_PASS','');
 define('DB_HOST','localhost');

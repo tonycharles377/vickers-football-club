@@ -247,7 +247,7 @@
                   <span class="icon-play"></span>
                 </span>
                 <div class="caption">
-                  <h3 class="m-0">Dogba set for Juvendu return?</h3>
+                  <h3 class="m-0"></h3>
                 </div>
               </a>
             </div>
@@ -260,7 +260,7 @@
                   <span class="icon-play"></span>
                 </span>
                 <div class="caption">
-                  <h3 class="m-0">Kai Nets Double To Secure Comfortable Away Win</h3>
+                  <h3 class="m-0"></h3>
                 </div>
               </a>
             </div>
@@ -273,7 +273,7 @@
                   <span class="icon-play"></span>
                 </span>
                 <div class="caption">
-                  <h3 class="m-0">Romolu to stay at Real Nadrid?</h3>
+                  <h3 class="m-0"></h3>
                 </div>
               </a>
             </div>
@@ -287,7 +287,7 @@
                   <span class="icon-play"></span>
                 </span>
                 <div class="caption">
-                  <h3 class="m-0">Dogba set for Juvendu return?</h3>
+                  <h3 class="m-0"></h3>
                 </div>
               </a>
             </div>
@@ -300,7 +300,7 @@
                   <span class="icon-play"></span>
                 </span>
                 <div class="caption">
-                  <h3 class="m-0">Kai Nets Double To Secure Comfortable Away Win</h3>
+                  <h3 class="m-0"></h3>
                 </div>
               </a>
             </div>
@@ -313,7 +313,7 @@
                   <span class="icon-play"></span>
                 </span>
                 <div class="caption">
-                  <h3 class="m-0">Romolu to stay at Real Nadrid?</h3>
+                  <h3 class="m-0"></h3>
                 </div>
               </a>
             </div>

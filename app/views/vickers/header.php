@@ -65,6 +65,7 @@
                 <li><a href="<?=ROOT?>players" class="nav-link">Players</a></li>
                 <li><a href="<?=ROOT?>about" class="nav-link">About us</a></li>
                 <li><a href="<?=ROOT?>blog" class="nav-link">Blog</a></li>
+                <li><a href="<?=ROOT?>login" class="nav-link">login</a></li>
                 <li><a href="<?=ROOT?>signup" class="nav-link">Signup</a></li>
                 <li><a href="<?=ROOT?>contact" class="nav-link">Contact us</a></li>
               </ul>

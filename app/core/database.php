@@ -33,14 +33,19 @@ class Database
             $check = $stm->execute($data);
         }
 
-        $check = $stm->execute($data);
         if($check)
         {
-            return $stm->fetchAll(PDO::FETCH_OBJ);
-        }else
-        {
-            return false;
-        }
+            $data = $stm->fetchAll(PDO::FETCH_OBJ);
+			if(is_array($data) && count($data) > 0)
+			{
+				return $data;
+			}
+
+			return false;
+		}else
+		{
+			return false;
+		}
     }
 
     public function write($query, $data = [])
@@ -60,7 +65,6 @@ class Database
             $check = $stm->execute($data);
         }
 
-        $check = $stm->execute($data);
         if($check)
         {
             return true;
